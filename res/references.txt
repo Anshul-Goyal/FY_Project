@@ -1,0 +1,32 @@
+Research Papers :
+
+https://goo.gl/qVtPav
+https://goo.gl/sDaGW7
+https://goo.gl/wJhQSn
+https://goo.gl/aCLVdP
+https://goo.gl/CErCBL
+https://goo.gl/zvGKb9
+https://goo.gl/iAwpMr
+https://goo.gl/L7mpH7
+https://goo.gl/fTMFv4
+https://goo.gl/Wd7UaP
+https://goo.gl/BK8Q9j
+https://goo.gl/EJ1Gvi
+https://goo.gl/BK8Q9j
+https://goo.gl/Wd7UaP
+https://goo.gl/TJ7tk6
+
+Guides : 
+
+https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+https://blog.algorithmia.com/introduction-sentiment-analysis-algorithms/
+
+Mentioned References: 
+
+https://link.springer.com/chapter/10.1057%2F9781137466297_5
+https://goo.gl/oJTVPc
+https://goo.gl/iAwpMr
+https://goo.gl/WAkRG8
+https://goo.gl/T6Ys3g
+https://goo.gl/aCLVdP
+https://goo.gl/qVtPav
