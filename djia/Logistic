@@ -1,0 +1,4 @@
+Logistic 
+--------
+l1 0.24
+l2 solver=sag
